@@ -1,0 +1,4 @@
+cd path/to/MyRunnerGame
+git init
+git add .
+git commit -m "Initial commit"
