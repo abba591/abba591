@@ -2,3 +2,5 @@ cd path/to/MyRunnerGame
 git init
 git add .
 git commit -m "Initial commit"
+https://github.com/abba591/abba591.git
+git push -u origin master
